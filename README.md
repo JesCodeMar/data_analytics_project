@@ -1,1 +1,1 @@
-# data_analytics_project
+Data Analytics project as part of the ongoing internship project with Cloud Counselage
